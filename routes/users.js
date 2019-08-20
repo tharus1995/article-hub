@@ -4,10 +4,10 @@ const { check, validationResult } = require('express-validator');
 
 module.exports = router;
 
-Save user in the db
 
-var express = require('express');
-var router = express.Router();
+
+// var express = require('express');
+// var router = express.Router();
 const bodyParser = require('body-parser');
 const bcrypt = require('bcrypt');
 
